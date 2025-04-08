@@ -1,16 +1,19 @@
-## Hi there 👋
-
+## سلام من زهرا ایزی هستم👋
+## درباره من
+##توسعه دهنده نرم افزار باتخصص در[تکنولوزی]
 <!--
 **bhriiii12/bhriiii12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+##راه های ارتباطی
+[ایمیل]
+[لینکدین]
+[توییتر]
+##مهارت ها و تکولوزی
+**زبان ها**  python |gavascript |
+**فریم ورک ها** react.js | django |node.js
+**ابزارها**   docker|git |vs code
+## آمار گیت هاب من
 -->
